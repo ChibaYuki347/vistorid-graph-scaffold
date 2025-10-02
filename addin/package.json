@@ -1,0 +1,11 @@
+{
+  "name": "visitorid-addin-snippet",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "echo \"Add your bundler here (webpack/esbuild)\"",
+    "lint": "echo \"lint\""
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
